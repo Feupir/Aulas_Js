@@ -1,0 +1,1 @@
+alert("Script js a partir de um arquivo externo")
